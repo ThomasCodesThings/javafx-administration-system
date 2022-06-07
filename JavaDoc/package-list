@@ -1,0 +1,14 @@
+controller
+core
+model
+model.customer
+model.database
+model.infrastructure
+model.ingredients
+model.product
+model.product.cake
+model.product.desert
+model.product.icecream
+model.resources
+model.utilities
+view
